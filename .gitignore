@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/.vs/Sebastian.Toolkit/v14
+/src/Sebastian.Toolkit/bin/x86/Debug
+/src/Sebastian.Toolkit/obj/Debug
+/src/Sebastian.Toolkit/obj/x86/Debug
